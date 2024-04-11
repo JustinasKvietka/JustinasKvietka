@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustinasKvietka
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Flask and hope to hop on React. 
+- 🌱 I’m currently learning Flask. 
 - 💞️ I’m looking to collaborate on mine and your project, so hit me up
 - 📫 How to reach me justinas.kvietka@gmail.com
 - ⚡ Fun fact: Im hi level athlete and have 3rd degree BLACK BELT
